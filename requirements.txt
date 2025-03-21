@@ -1,0 +1,12 @@
+torch
+opencv-python
+numpy
+random2
+ultralytics
+supervision
+pandas
+roboflow
+Flask
+uuid
+webbrowser
+threading
