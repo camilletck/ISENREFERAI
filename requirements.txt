@@ -10,4 +10,4 @@ Flask
 uuid
 webbrowser
 threading
-ffpmeg
+ffmpeg
