@@ -6,8 +6,8 @@ app = Flask(__name__)
 import webbrowser
 import threading
 
-UPLOAD_FOLDER = "static/uploads"
-OUTPUT_FOLDER = "static/output"
+UPLOAD_FOLDER = "website/static/uploads"
+OUTPUT_FOLDER = "website/static/output"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
