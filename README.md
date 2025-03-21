@@ -47,7 +47,8 @@ pip install -r requirements.txt
 
 ### 3️⃣ Exécution  
 
-Placez vos vidéos d’entrée dans le dossier `input_videos/` et lancez le script principal :  
+Placez vos vidéos d’entrée dans le dossier `input_videos/`, ajoutez best.pt dans le dossier models et lancez le script principal :  
+Lien du best.pt : https://drive.google.com/file/d/1awib0YDaGcjAw-6ScI5qs44KaIo6B5iA/view?usp=sharing
 
 ```bash
 python app.py
