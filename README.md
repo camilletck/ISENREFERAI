@@ -137,6 +137,7 @@ ReferAI/
 - Ajout de statistiques avancées sur le match  
 - Interface graphique pour une visualisation interactive  
 
+
 ## 👥 Contributeurs  
 Arthur PRIGENT, Alexis GOURANTON, Alexandre GUIGANTON, Camille TACK
 
